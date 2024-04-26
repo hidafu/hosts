@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T02:56:22.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d-4F3OHXiX41lQkq_zdI" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T02:58:41.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZBguirVKEKEnSu-wvYQs" version="24.3.0" type="github">
   <diagram name="第 1 页" id="OgpjBNU1iHbVYSOEx-6i">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3zYSlDS5NVleH7Sg0XO-83" value="3.action不来自打标 or&lt;br&gt;被豁免？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-8">
+        <mxCell id="e3zYSlDS5NVleH7Sg0XO-83" value="3.action不是来自打标 or&lt;br&gt;被豁免？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-8">
           <mxGeometry x="17" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e3zYSlDS5NVleH7Sg0XO-9" value="处置中心" style="swimlane;startSize=20;html=1;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-7">
@@ -59,10 +59,10 @@
         <mxCell id="e3zYSlDS5NVleH7Sg0XO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="e3zYSlDS5NVleH7Sg0XO-9" source="e3zYSlDS5NVleH7Sg0XO-26" target="e3zYSlDS5NVleH7Sg0XO-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3zYSlDS5NVleH7Sg0XO-26" value="1.大V白名单直接豁免" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-9">
+        <mxCell id="e3zYSlDS5NVleH7Sg0XO-26" value="1.大V白名单直接豁免" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-9">
           <mxGeometry x="20" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e3zYSlDS5NVleH7Sg0XO-51" value="2.对THANOS，不执行豁免后通过补偿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-9">
+        <mxCell id="e3zYSlDS5NVleH7Sg0XO-51" value="2.对THANOS，不执行豁免后通过补偿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-9">
           <mxGeometry x="20" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e3zYSlDS5NVleH7Sg0XO-56" value="执行处置，笔记状态变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e3zYSlDS5NVleH7Sg0XO-9">
