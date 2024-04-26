@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T02:58:41.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZBguirVKEKEnSu-wvYQs" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T03:14:03.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Gftr9zXxn3IG3mHBqrDl" version="24.3.0" type="github">
   <diagram name="第 1 页" id="OgpjBNU1iHbVYSOEx-6i">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             <mxPoint x="57" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3zYSlDS5NVleH7Sg0XO-90" value="丢弃action执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3zYSlDS5NVleH7Sg0XO-89">
+        <mxCell id="e3zYSlDS5NVleH7Sg0XO-90" value="否，&lt;div&gt;丢弃action处理&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3zYSlDS5NVleH7Sg0XO-89">
           <mxGeometry x="-0.2795" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -124,13 +124,13 @@
         </mxCell>
         <mxCell id="e3zYSlDS5NVleH7Sg0XO-58" value="打标/直接处置请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3zYSlDS5NVleH7Sg0XO-57">
           <mxGeometry x="0.1785" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="44" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e3zYSlDS5NVleH7Sg0XO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="e3zYSlDS5NVleH7Sg0XO-7" source="e3zYSlDS5NVleH7Sg0XO-76" target="e3zYSlDS5NVleH7Sg0XO-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3zYSlDS5NVleH7Sg0XO-80" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3zYSlDS5NVleH7Sg0XO-79">
+        <mxCell id="e3zYSlDS5NVleH7Sg0XO-80" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3zYSlDS5NVleH7Sg0XO-79">
           <mxGeometry x="-0.1858" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
